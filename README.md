@@ -5,6 +5,6 @@ Forum: https://forums.beamdog.com/discussion/18833/bg-ee-dark-horizons-released/
 
 Post-EET Start/EET Core Version: https://github.com/The-Gate-Project/DarkHorizons/tree/After-EET
 
-Roxanne's Dark Horizons balance tweaks: https://github.com/RoxanneSHS/DarkHorizonsTweaks/
+Roxanne's Dark Horizons balance tweaks (not recommended due to likely bugs) - Install Post-EET Start/EET Core: https://github.com/RoxanneSHS/DarkHorizonsTweaks/
 
-ahungry's Dark Horizons Oversight HQ Fix: https://github.com/ahungry/ahungry_tweaks#fix-missing-oversight-hq-door-in-dark-horizons-on-eet
+ahungry's Dark Horizons Oversight HQ Fix - Install Post-EET Start/EET Core: https://github.com/ahungry/ahungry_tweaks#fix-missing-oversight-hq-door-in-dark-horizons-on-eet
